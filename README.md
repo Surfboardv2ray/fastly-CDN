@@ -1,2 +1,2 @@
-# fastly-CDN
-A Cloudflare Worker Script to Separate Fastly CDN Hostnames.
+# Fastly CDN
+A Cloudflare Worker Script to Separate Websites using Fastly CDN.
